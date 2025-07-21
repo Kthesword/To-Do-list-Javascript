@@ -23,21 +23,22 @@ cd To-Do-list-Javascript
 ```
 Open the App:
 
-2.Just open index.html in your browser (double-click it or use Live Server in VS Code).
+2. **Just open index.html in your browser (double-click it or use Live Server in VS Code).**
 
-➕ Add Task
+**➕ Add Task**
 
 User adds a new task using the input field.
 
-✏️ Edit Task
+**✏️ Edit Task**
 
 User clicks "Edit" to change the task content.
 
-🗑️ Delete Task
+**🗑️ Delete Task**
 
 User clicks "Delete" to remove a task from the list.
 
 **🧰 Technologies Used**
+
 HTML – Markup structure
 
 CSS – Styling the UI
