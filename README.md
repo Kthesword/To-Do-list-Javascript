@@ -28,9 +28,6 @@ Open the App:
 **➕ Add Task**
 
 User adds a new task using the input field.
-```
-./screenshots/Screenshot 2025-07-21 092319
-```
 
 **✏️ Edit Task**
 
@@ -47,4 +44,12 @@ HTML – Markup structure
 CSS – Styling the UI
 
 JavaScript – Dynamic task functionality
+
+## ✅ Status
+## ✅ 100% Complete and functional
+Tested on Chrome, Firefox, and Edge
+
+## 📎 Live Link 
+https://kthesword.github.io/To-Do-list-Javascript/
+
 
